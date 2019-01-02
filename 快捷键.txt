@@ -1,0 +1,33 @@
+	prvate 参数生成
+alt shift so:
+alt shift sc:super
+alt shift sr:get return
+
+debug 
+F5 一步一步,进入方法内部.查看源码
+F6 进入当前函数,不进入源码
+F7 跳到该方法的结尾处 end
+F8 跳到下一个断点处
+
+c+f3 定位方法,选项很多, 更快的是c+click
+
+
+git
+git config --global user.name "John Doe"
+
+upload:
+touch //create
+git add filename //add  to pause paritation
+git status //statues
+git commit -m "describe" //commit
+
+revise:
+v1 filename 
+git add 
+git commit -m " "
+
+delete:
+rm -rf filename
+git rm filename
+git commit -m " "
+
